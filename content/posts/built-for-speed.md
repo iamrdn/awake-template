@@ -1,6 +1,6 @@
 ---
 title: Built For Speed Update
-subtitle: Awake is Built to Be Blazing Fast
+subtitle: Awake is Built to Be Blazing Faster
 category:
   - About Awake
 author: Daniel Kelly
