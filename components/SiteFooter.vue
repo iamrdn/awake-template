@@ -3,8 +3,7 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
+    Made with <span style="color: #e25555;">&#9829;</span> by <a href='https://rdnaidu.com'>Dhanu N Joy</a>
   </footer>
 </template>
 
